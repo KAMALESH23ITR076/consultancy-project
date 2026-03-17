@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Jolly Enterprises - MERN Stack Clothing E-commerce Website
 
-A full-stack e-commerce website built with MongoDB, Express, React, and Node.js.
+A. full-stack e-commerce website built with MongoDB, Express, React, and Node.js.
 
 ## Features
 
